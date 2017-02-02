@@ -13,6 +13,10 @@ public class TestPerformance {
 	// TODO run test and record running times for SIZE = 10, 100, 1000, 10000
 	// which of the two lists performs better as the size increases?
 	private final int SIZE = 10;
+	//size 10 89 ms
+	//size 100 119 ms
+	//size 1000 606 ms
+	//size 10000 901 ms
 
 	private final int REPS = 1000000;
 
